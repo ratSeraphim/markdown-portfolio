@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Rat drinking beer](https://pbs.twimg.com/media/Eu6R4JTU4AgKqk-?format=jpg&name=small) 
